@@ -26,8 +26,6 @@ Start the development server:
 bash
 Copy code
 pnpm dev
-Live Demo
-Access the app here: LoginFunction
 
 License
 This project is open-source and available under the MIT License.
